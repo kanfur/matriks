@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\Matriks\Furkan_Ozturk_Matriks\Furkan_Ozturk_Matriks\bin\Debug\Furkan_Ozturk_Matriks.exe.config
+C:\Users\user\Desktop\Matriks\Furkan_Ozturk_Matriks\Furkan_Ozturk_Matriks\bin\Debug\Furkan_Ozturk_Matriks.exe
+C:\Users\user\Desktop\Matriks\Furkan_Ozturk_Matriks\Furkan_Ozturk_Matriks\bin\Debug\Furkan_Ozturk_Matriks.pdb
+C:\Users\user\Desktop\Matriks\Furkan_Ozturk_Matriks\Furkan_Ozturk_Matriks\obj\Debug\Furkan_Ozturk_Matriks.exe
+C:\Users\user\Desktop\Matriks\Furkan_Ozturk_Matriks\Furkan_Ozturk_Matriks\obj\Debug\Furkan_Ozturk_Matriks.pdb

@@ -1,0 +1,10 @@
+A 1 T 2
+A 2 C Blue
+A 3 A H
+A 4 C Red
+A 5 T 16
+E 1 T 7
+R 4
+R 3
+R 2
+A 2 T 7

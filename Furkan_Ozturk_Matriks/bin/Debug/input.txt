@@ -1,0 +1,4 @@
+﻿A 1 C Blue T 4 
+A 2 A T C Green 
+A 3 A J T 27 C Red 
+E 2 A Z C Green 
