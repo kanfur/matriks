@@ -188,21 +188,4 @@ Filenames will be provided as a command line argument. Input files are plain txt
 be called from command line as followed;
 ./queue.exe input-1.txt output-1.txt
 
-```
-SUBMISSION
-```
-You should submit your C# source code with a Visual Studio solution file. Do not submit any
-executable files, clear your project before submission. Send all project files to
-careers.commodity@matriksdata.com in a compressed .rar file. If you have any problem on
-submission, please contact with an email. With your submission, provide at least a paragraph of
-description on your source code and your design decisions.
-
-```
-DISCL AIME R
-```
-This assignment is intended only for the person to whom it is addressed. Sharing the definition or
-source codes of the assignment with any other person or on a public platform is prohibited. If this
-assignment is not sent to you from careers.commodity@matriksdata.com email address, please
-contact the email as soon as possible.
-
 
